@@ -9,6 +9,7 @@ serial:
     /dev/serial/by-id/usb-Silicon_Labs_slae.sh_cc2652rb_stick_-_slaesh_s_iot_stuff_00_12_4B_00_21_CB_F2_5B-if00-port0
 frontend:
   port: 8080
+  auth_token: Di1tPw!?
 advanced:
   pan_id: 25781
   network_key:
@@ -91,3 +92,29 @@ devices:
     friendly_name: '0xccccccfffe645e26'
   '0x001fee000000310e':
     friendly_name: '0x001fee000000310e'
+  '0x001fee0000005805':
+    friendly_name: '0x001fee0000005805'
+  '0x04cf8cdf3c764227':
+    friendly_name: '0x04cf8cdf3c764227'
+  '0x04cf8cdf3c759c69':
+    friendly_name: '0x04cf8cdf3c759c69'
+  '0x04cf8cdf3c76420e':
+    friendly_name: '0x04cf8cdf3c76420e'
+  '0x04cf8cdf3c764030':
+    friendly_name: '0x04cf8cdf3c764030'
+  '0x04cf8cdf3c764327':
+    friendly_name: '0x04cf8cdf3c764327'
+  '0x04cf8cdf3c7644da':
+    friendly_name: '0x04cf8cdf3c7644da'
+  '0x04cf8cdf3c759d85':
+    friendly_name: '0x04cf8cdf3c759d85'
+  '0x04cf8cdf3c79c2e4':
+    friendly_name: '0x04cf8cdf3c79c2e4'
+  '0x04cf8cdf3c75a5b0':
+    friendly_name: '0x04cf8cdf3c75a5b0'
+  '0x04cf8cdf3c79c957':
+    friendly_name: '0x04cf8cdf3c79c957'
+  '0xccccccfffed72008':
+    friendly_name: '0xccccccfffed72008'
+  '0x00158d00024fc932':
+    friendly_name: '0x00158d00024fc932'
