@@ -88,6 +88,9 @@ devices:
     friendly_name: '0x0000000000000000'
   '0x0017880106f77a4c':
     friendly_name: '0x0017880106f77a4c'
+    illuminance_lux_precision: 3
+    temperature_precision: 3
+    illuminance_precision: 3
   '0xccccccfffe645e26':
     friendly_name: '0xccccccfffe645e26'
   '0x001fee000000310e':
