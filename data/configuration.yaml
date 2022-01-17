@@ -10,7 +10,7 @@ serial:
 frontend:
   port: 8080
   auth_token: Di1tPw!?
-  url: 'https://zigbee2mqtt.home.claus-justus-heine.de'
+  url: https://zigbee2mqtt.home.claus-justus-heine.de
 advanced:
   pan_id: 25781
   network_key:
@@ -127,3 +127,5 @@ devices:
     friendly_name: '0x54ef4410001c5318'
   '0x04cf8cdf3c7be385':
     friendly_name: '0x04cf8cdf3c7be385'
+  '0x00158d00073a47d5':
+    friendly_name: '0x00158d00073a47d5'
